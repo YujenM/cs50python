@@ -1,1 +1,1 @@
-# Write Your Final PRoject in CS50P
+# Write Your Final Project in CS50P
